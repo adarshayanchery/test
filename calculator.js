@@ -15,6 +15,6 @@ function addToResult(value) {
     var result = document.getElementById('result');
     var expression = result.value;
     var answer = eval(expression);
-    result.value = answer;
+    result.value = answer;1
   }
   
